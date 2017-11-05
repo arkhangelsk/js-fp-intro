@@ -1,8 +1,5 @@
 # Intro to functional programming in JavaScript
 
-# STAY CURIOUS, STAY INTERESTED
-* The web is an incredible platform that few people understand in its entirety. It’s yours to dive into and explore. Don’t forget to share your knowledge and passion with others; it’s the best part.
-
 ## What is it?
 
 * Functional programming is a programming paradigm
@@ -123,6 +120,9 @@ Ref: [Herb Sutter](http://www.gotw.ca)
 > "JavaScript is LISP in C's Clothing"
 
 > ~ [Douglas Crockford](http://javascript.crockford.com/javascript.html), co-architect of JavaScript
+
+# STAY CURIOUS, STAY INTERESTED
+* The web is an incredible platform that few people understand in its entirety. It’s yours to dive into and explore. Don’t forget to share your knowledge and passion with others; it’s the best part.
 
 ## Let's get started
 
